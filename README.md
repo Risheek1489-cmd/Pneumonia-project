@@ -16,4 +16,5 @@ Set `IMAGE_PATH` in `test.py` to the X-ray image you want to classify (a sample 
 Run inference: `python3 test.py`
 The output prints the prediction (NORMAL or PNEUMONIA) and the confidence percentage.
 
-[View a video explanation here](video link)
+https://youtu.be/G15_JXUjwww
+
